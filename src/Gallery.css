@@ -1,0 +1,24 @@
+.img-container {
+  font-size: 30px;
+  margin: 2%;
+}
+.img-container img {
+  border: solid 5px rgb(255, 153, 51);
+  border-radius: 20px;
+  height: 75vh;
+}
+
+.img-container button {
+  background-color: rgb(0, 0, 128);
+  border: solid 2px rgb(255, 153, 51);
+  border-radius: 10px;
+  color: white;
+  font-size: 75%;
+  font-weight: 600;
+  height: 10vh;
+  width: 32vh;
+}
+
+.img-container button:hover {
+  background-color: rgb(19, 136, 8);
+}
